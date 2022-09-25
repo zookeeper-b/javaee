@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/IO/IO.iml" filepath="$PROJECT_DIR$/IO/IO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBC_1/JDBC_1.iml" filepath="$PROJECT_DIR$/JDBC_1/JDBC_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBC_2/JDBC_2.iml" filepath="$PROJECT_DIR$/JDBC_2/JDBC_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lambda表达式/Lambda表达式.iml" filepath="$PROJECT_DIR$/Lambda表达式/Lambda表达式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/OOP.iml" filepath="$PROJECT_DIR$/OOP/OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dataStructure/dataStructure.iml" filepath="$PROJECT_DIR$/dataStructure/dataStructure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaee基础.iml" filepath="$PROJECT_DIR$/javaee基础.iml" />
+      <module fileurl="file://$PROJECT_DIR$/容器/容器.iml" filepath="$PROJECT_DIR$/容器/容器.iml" />
+      <module fileurl="file://$PROJECT_DIR$/常用类/常用类.iml" filepath="$PROJECT_DIR$/常用类/常用类.iml" />
+      <module fileurl="file://$PROJECT_DIR$/异常/异常.iml" filepath="$PROJECT_DIR$/异常/异常.iml" />
+      <module fileurl="file://$PROJECT_DIR$/泛型类/泛型类.iml" filepath="$PROJECT_DIR$/泛型类/泛型类.iml" />
+      <module fileurl="file://$PROJECT_DIR$/类/类.iml" filepath="$PROJECT_DIR$/类/类.iml" />
+      <module fileurl="file://$PROJECT_DIR$/线程/线程.iml" filepath="$PROJECT_DIR$/线程/线程.iml" />
+      <module fileurl="file://$PROJECT_DIR$/面向网络编程/面向网络编程.iml" filepath="$PROJECT_DIR$/面向网络编程/面向网络编程.iml" />
+      <module fileurl="file://$PROJECT_DIR$/飞机大战/飞机大战.iml" filepath="$PROJECT_DIR$/飞机大战/飞机大战.iml" />
+      <module fileurl="file://$PROJECT_DIR$/飞机大战2.0/飞机大战2.0.iml" filepath="$PROJECT_DIR$/飞机大战2.0/飞机大战2.0.iml" />
+    </modules>
+  </component>
+</project>
